@@ -1,0 +1,25 @@
+* {
+    background-color: #C0C0C0;
+}
+
+.recipes {
+    color: #C0C0C0;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.cc-list, 
+.bmc-list, 
+.lpw-list {
+    border: 2px;
+    border-style: dotted;
+    border-color: gold;
+}
+
+.cc-list2,
+.bmc-list2,
+.lpw-list2 {
+    border: 2px;
+    border-style: dotted;
+    border-color: red;
+}
