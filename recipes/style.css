@@ -2,6 +2,22 @@
     background-color: #C0C0C0;
 }
 
+img {
+    border: 4px;
+    border-style: solid;
+    border-color: red;
+}
+
+p {
+    border: 2px;
+    border-style: solid;
+    border-color: green;
+}
+
+h1 {
+    font-family: Georgia, serif
+}
+
 .recipes {
     color: #C0C0C0;
    font-family: Georgia, 'Times New Roman', Times, serif;
@@ -12,7 +28,7 @@
 .bmc-list, 
 .lpw-list {
     border: 2px;
-    border-style: dotted;
+    border-style: solid;
     border-color: gold;
 }
 
@@ -20,6 +36,6 @@
 .bmc-list2,
 .lpw-list2 {
     border: 2px;
-    border-style: dotted;
+    border-style: solid;
     border-color: red;
 }
